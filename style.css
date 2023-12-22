@@ -195,3 +195,7 @@ a:visited {
 .btn:hover {
     opacity: 0.6;
 }
+
+.contakt {
+    text-align: center;
+}
